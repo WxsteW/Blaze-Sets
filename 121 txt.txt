@@ -1,0 +1,10 @@
+ erion's 121 sets
+VSTPlugin: Library ReverbSolo.dll ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAACuRyE/AQAAAH5TosE+R0MJSq8EhwA="
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDM0OTk5OTk2NDIzNzIxMzEzNDc3IiBzdGVyZW9UeXBlPSIwIi8+AA=="
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUUAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDAwMjk5OTk5NDkwMzgwMjg3MTcwNDEiIHN0ZXJlb1R5cGU9IjAiLz4A"
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBQcmVzZW5jZQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPYoHD96FK4+uB4FP4/CNT8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBCYXNzIE9LAIiIh4eHiIiIi4uLioqKiYmJiIiIAAAAAPUo3D4K1+M+Pgo3Pz0KFz8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsALJzXZEMs6jl58+fiSsuEt8C4GT4AAAAAB+FKz8AAAA/AAAAPwAAAD8="
+VSTPlugin: Library Wider.dll ChunkData "bs5mPg=="
+# db
+Preamp: 20 dB

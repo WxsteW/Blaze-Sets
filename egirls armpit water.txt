@@ -1,0 +1,4 @@
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDAxNjk5OTk4OTc0ODAwMTA5ODYzMyIgc3RlcmVvVHlwZT0iMCIvPgA="
+VSTPlugin: Library Wider.dll ChunkData "iIgIPg=="
+Preamp: 7.5 dB
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANijMD+wRwE/UrjePsT1CD8="

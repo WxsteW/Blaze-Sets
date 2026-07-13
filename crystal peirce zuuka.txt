@@ -1,0 +1,9 @@
+# 
+Filter: ON LS Fc 1541.81 Hz Gain 13.7 dB
+# 
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPrgeBT8="
+# 
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPrgeBT8="
+# 
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBTd2VldCBWb2NhbAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAID/NzCw/AAAAP9ej8D4="
+Preamp: 29.4 dB

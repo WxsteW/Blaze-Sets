@@ -1,0 +1,11 @@
+# Made by Vorsus
+Preamp: 20 dB
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBOaWNlIFZvY2FsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM3MLD8fhas+AAAAPwAAAD8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBOaWNlIFZvY2FsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM3MLD8fhas+AAAAPwAAAD8="
+Filter: ON HP Fc 100 Hz
+VSTPlugin: Library Wider.dll ChunkData "NU1TPg=="
+VSTPlugin: Library ReverbSolo.dll ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAACF6xE/AQAAAM3gw8E+R0MJSq8EhwA="
+Filter: ON HSC Fc 200 Hz Gain -2.1 dB Q 0.3333
+# extra gain
+# Preamp: 5 dB
+# add your panbook here if you have one

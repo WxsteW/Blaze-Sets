@@ -1,0 +1,20 @@
+made by samiul enjoy 
+Preamp: 45 dB
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBOaWNlIFZvY2FsAAAAAAAAAAAAAAAAAEMAAAAAAAAAAM3MLD8fhas+AAAAPwAAAD8="
+Filter: ON HS Fc 1563.26 Hz Gain 1.3 dB
+Filter: ON HS Fc 283 Hz Gain 2.3 dB
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAIC/AAAAPwAAAAAAAAAAAAAAAD4KFz9I4Xo+AAAAPwAAAD8="
+VSTPlugin: Library Wider.dll ChunkData "AAAAAA=="
+pans
+left pan
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUUAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDAwNzAwMDAwNjczNTMyNDg1OTYxOTEiIHN0ZXJlb1R5cGU9IjAiLz4A"
+#right pan
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDA3MDAwMDA2NzM1MzI0ODU5NjE5MSIgc3RlcmVvVHlwZT0iMCIvPgA="
+deep left
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUUAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDAwMjk5OTk5NDkwMzgwMjg3MTcwNDEiIHN0ZXJlb1R5cGU9IjAiLz4A"
+deep right
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDAyOTk5OTc2Mjc3MzUxMzc5Mzk0NSIgc3RlcmVvVHlwZT0iMCIvPgA="
+# above head left
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUUAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDAwMTk5OTk5NjYwMjUzNTI0NzgwMjciIHN0ZXJlb1R5cGU9IjAiLz4A"
+# above head right 
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDAxOTk5OTk2NjAyNTM1MjQ3ODAyNyIgc3RlcmVvVHlwZT0iMCIvPgA="

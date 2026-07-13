@@ -1,0 +1,13 @@
+VSTPlugin: Library basiq.dll ChunkData "UEtTQlEAAgBQcmVzZW5jZQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADMzMz89Clc+PQoXP3oUTj8="
+VSTPlugin: Library wider.dll ChunkData "AAAAPg=="
+
+Filter: ON HS Fc 12 Hz Gain 5 dB
+Preamp: 6.1 dB
+VSTPlugin: Library basiq.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAPy8PPfq/GjBHGtMO8Wv8dwxr8rJAAAAAJqZWT8fhSs/9iicPqVwvT4="
+# pans bala somn
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDAzOTk5OTkzMjA1MDcwNDk1NjA1NSIgc3RlcmVvVHlwZT0iMCIvPgA="
+# right
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUUAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDAwNTk5OTk4OTgwNzYwNTc0MzQwODIiIHN0ZXJlb1R5cGU9IjAiLz4A"
+# left
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDAyNDk5OTk5NDc4NDU5MzU4MjE1MyIgc3RlcmVvVHlwZT0iMCIvPgA="
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUMAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDI2MDAwMDExNzEyMzEyNjk4MzY0IiBzdGVyZW9UeXBlPSIwIi8+AA=="

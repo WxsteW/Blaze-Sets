@@ -1,0 +1,12 @@
+#  powerful gain
+Preamp: 52 dB
+# 
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBTd2VldCBWb2NhbAAAAAAAAAAAAAAAgD/NzMw9AAAAAAAAID/NzCw/AAAAPwAAAD8="
+# 
+VSTPlugin: Library ReverbSolo.dll ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAAAfhSs/AQAAAHYhJ8E+R0MJSq8EhwA="
+# 
+Filter: ON LS Fc 4886.86 Hz Gain 13.8 dB
+# 
+VSTPlugin: Library GGain.dll Gain 1
+# 
+VSTPlugin: Library BL-Gain60.dll Gain 0.826389

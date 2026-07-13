@@ -1,0 +1,10 @@
+
+Preamp: 20 dB
+# Preamp: 20 dB
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBQcmVzZW5jZQCioqCgoJ6enpycnJ2dnZ2dnaCgAAAAADMzMz89Clc+PQoXP4XrET8="
+Filter: ON HS Fc 400.98 Hz Gain 3.4 dB
+VSTPlugin: Library Wider.dll ChunkData "llgJPw=="
+VSTPlugin: Library Manipulator.dll
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDA4NTk5OTk4NDI5NDE3NjEwMTY4NSIgc3RlcmVvVHlwZT0iMCIvPgA="
+Include: Ascendant.txt
+VSTPlugin: Library ReverbSolo_1.dll ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAAApXA8/AQAAAEVfDME+R0MJSq8EhwA="

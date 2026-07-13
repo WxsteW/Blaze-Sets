@@ -1,0 +1,6 @@
+Filter: ON HSC 0.66 dB Fc 7763.01 Hz Gain 7.4 dB
+Preamp: 20 dB
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPvYoHD8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBTd2VldCBWb2NhbADlS9Y3T16fLLSNxHRISUiCAAAAAAAAID/NzCw/AAAAPx+F6z4="
+VSTPlugin: Library Wider.dll ChunkData "zcyMPg=="
+# SOn

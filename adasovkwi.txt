@@ -1,0 +1,7 @@
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPmdmJj8="
+Preamp: 12 dB
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPu1RuD4="
+Preamp: 12 dB
+VSTPlugin: Library Wider.dll ChunkData "Ygu2PQ=="
+wide
+# VSTPlugin: Library "Dimension_Expander (1).dll" on/off 1 Size 0 Dry/Wet 1

@@ -1,0 +1,11 @@
+Preamp: 15 dB
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAAD8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAAD8="
+VSTPlugin: Library QuickHaas.dll
+Filter: ON HP Fc 139.33 Hz
+Preamp: 20 dB
+Filter: ON HS Fc 119.68 Hz Gain -15.1 dB
+Filter: ON PK Fc 88.31 Hz Gain -4.8 dB Q 10
+VSTPlugin: Library Wider.dll ChunkData "oQ5qPg=="
+VSTPlugin: Library ReverbSolo.dll ChunkData "Tk9DQUxTVlIDAAEAAgAAAAIAAADNzAw/AQAAAE75S8E+R0MJSq8EhwA="
+# VSTPlugin: Library clear.dll ChunkData "VkMyIXQAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TVlQTFVHSU5TRVRUSU5HUyBkYkVuYWJsZT0iMSIgZGJQYXJhbTE9IjAuNSIgZGJQYXJhbTI9IjAuNSIgZGJQYXJhbTM9IjAuNSIvPgA="

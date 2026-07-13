@@ -1,0 +1,7 @@
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPlK43j4="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBTd2VldCBWb2NhbABBeic34d9++23C8iKynr3hAAAAAAAAID/NzCw/AAAAP2Zm5j4="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBOaWNlIFZvY2FsAJXaVVNrWzrARMoAU+3yQGfuAAAAAM3MLD8fhas+AAAAP6NwHT8="
+VSTPlugin: Library Wider.dll ChunkData "vciLPg=="
+Filter: ON PK Fc 400 Hz Gain -0.7 dB BW Oct 4.4444
+Filter: ON PK Fc 600 Hz Gain 2.2 dB BW Oct 44.4444
+Preamp: 20 dB

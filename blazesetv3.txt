@@ -1,0 +1,23 @@
+Preamp: 15 dB
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBOaWNlIFZvY2FsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM3MLD8fhas+AAAAP1yPIj8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPnsULj8="
+# piercing wideness
+# VSTPlugin: Library Wider.dll ChunkData "cT0KPg=="
+# deafult widness
+# VSTPlugin: Library Wider.dll ChunkData "ZmZmPg=="
+# above head
+# VSTPlugin: Library Wider.dll ChunkData "H4WrPg=="
+# right
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDA4MDAwMDA1MDM2NTkyNDgzNTIwNSIgc3RlcmVvVHlwZT0iMCIvPgA="
+# left
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUUAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDAwMjk5OTk5NDkwMzgwMjg3MTcwNDEiIHN0ZXJlb1R5cGU9IjAiLz4A"
+# right above
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDAyOTk5OTc2Mjc3MzUxMzc5Mzk0NSIgc3RlcmVvVHlwZT0iMCIvPgA="
+# left above
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUUAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDAwMTk5OTk5NjYwMjUzNTI0NzgwMjciIHN0ZXJlb1R5cGU9IjAiLz4A"
+# right deep
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUIAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMTQyOTk5OTgwNTk4Njg4MTI1NjEiIHN0ZXJlb1R5cGU9IjAiLz4A"
+# left deep
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDAxODAwMDAwNjY3NTcyMDIxNDg0NCIgc3RlcmVvVHlwZT0iMCIvPgA="
+# Pierce boost always on
+Filter: ON HS Fc 500 Hz Gain 1.6 dB

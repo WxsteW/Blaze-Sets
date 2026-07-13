@@ -1,0 +1,6 @@
+VSTPlugin: Library MonoChannel_x64.dll "Volume Level" 0.5 Mute 0 Invert 0 "Low Shelf Gain" 0.403846 "Mid Peak Gain" 0.586539 "Settings Panel" 0 "VU Nominal Level" 0.333333 "High Shelf Gain" 0.5 "Warning LED Level" 0.85 "Peak LED Level" 0.9925 "Warning LED Hold" 0.09991 "Peak LED Hold" 0.49995 "VU Meter Mode" 0 "HP Filter" 0 "VU Peak Needle" 0 "Mini View" 0 "EQ Mode" 0
+# niggaaaa
+Filter 2: ON PK Fc 500 Hz Gain 3 dB Q 0.4
+Filter: ON PK Fc 5000 Hz Gain 3 dB Q 0.4
+Filter: ON PK Fc 10000 Hz Gain 1.95 dB Q 0.4
+Filter 6: ON PK Fc 22050 Hz Gain 2 dB Q 0.7

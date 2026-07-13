@@ -1,0 +1,9 @@
+Filter: ON HSC Fc 4375.52 Hz Gain 0 dB Q 0.7
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBTd2VldCBWb2NhbAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAID/NzCw/AAAAPwAAAD8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBHdWl0YXIgRmFjZQD/eHh4/3V1df92dnb/d3d3AAAAAEjhOj8fhSs/pHAdP5qZOT8="
+VSTPlugin: Library GGain.dll Gain 0.6975
+VSTPlugin: Library MonoChannel_x64.dll "Volume Level" 0.647436 Mute 0 Invert 0 "Low Shelf Gain" 0.355769 "Mid Peak Gain" 0.673077 "Settings Panel" 0 "VU Nominal Level" 0.333333 "High Shelf Gain" 0.682692 "Warning LED Level" 0.85 "Peak LED Level" 0.9925 "Warning LED Hold" 0.09991 "Peak LED Hold" 0.49995 "VU Meter Mode" 0 "HP Filter" 0 "VU Peak Needle" 0 "Mini View" 0 "EQ Mode" 0
+VSTPlugin: Library OutlawCM.dll ChunkData "VkMyIRwBAAA8T3V0bGF3Q01fMT48UEFSQU0gaWQ9InBvd2VySWQiIHZhbHVlPSIxLjAwMDAwMDAwMDAwMDAwMDAwMDAwIi8+PFBBUkFNIGlkPSJtaXhJZCIgdmFsdWU9IjEwMC4wMDAwMDAwMDAwMDAwMDAwMDAwMCIvPjxQQVJBTSBpZD0idGFyZ2V0SWQiIHZhbHVlPSIwLjAwMDAwMDAwMDAwMDAwMDAwMDAwIi8+PFBBUkFNIGlkPSJnYXRlSWQiIHZhbHVlPSIwLjAwMDAwMDAwMDAwMDAwMDAwMDAwIi8+PFBBUkFNIGlkPSJnYWluSWQiIHZhbHVlPSIwLjAwMDAwMDAwMDAwMDAwMDAwMDAwIi8+PC9PdXRsYXdDTV8xPgA="
+# 
+VSTPlugin: Library Wider.dll ChunkData "2IKlPgAAgL8AAIA/AAAAAA=="
+# 

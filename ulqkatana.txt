@@ -1,0 +1,9 @@
+Copy: R=L
+Preamp: 4.2 dB
+# freq
+Include: EQ 2.txt
+# pan
+VSTPlugin: Library wider.dll ChunkData "vcgLPgAAgL8AAIA/AAAAAA=="
+# LEFT/RIGHT
+# VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUUAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTAuMDAwNDk5OTk5MTUwNjMzODExOTUwNjgiIHN0ZXJlb1R5cGU9IjAiLz4A"
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUQAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iMC4wMDA1MDAwMDEwMTMyNzg5NjExODE2NCIgc3RlcmVvVHlwZT0iMCIvPgA="

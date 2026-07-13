@@ -1,0 +1,11 @@
+Preamp: 40 dB
+VSTPlugin: Library Wider.dll ChunkData "12iNPg=="
+
+Filter: ON PK Fc 100 Hz Gain 3 dB Q 1.0 
+Filter: ON PK Fc 250 Hz Gain -2 dB Q 1.5 
+Filter: ON PK Fc 515 Hz Gain 2 dB Q 2.0  
+Filter: ON PK Fc 3000 Hz Gain 1 dB Q 1.5  
+Filter: ON PK Fc 5000 Hz Gain -1 dB Q 1.5 
+Filter: ON PK Fc 8000 Hz Gain 2 dB Q 1.5
+Filter: ON PK Fc 12000 Hz Gain 3 dB Q 1.5
+Filter: ON PK Fc 20000 Hz Gain 5 dB BW Oct 3.3795
