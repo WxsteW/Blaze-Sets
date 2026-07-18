@@ -1,0 +1,15 @@
+sharukhan
+Preamp: 25 dB
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPgAAAD8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBTd2VldCBWb2NhbAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAID/NzCw/AAAAPxSuJz8="
+# new onec for clearer
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZWT8fhSs/9iicPqRwHT8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBTd2VldCBWb2NhbAD/iIiI/4mJif+JiYn/hoaGAAAAAAAAID/NzCw/AAAAP7gexT4="
+AWAY
+# Copy: L=L+R R=L+R
+mono
+# VSTPlugin: Library Wider.dll ChunkData "1miNPg=="
+ little above the head
+# VSTPlugin: Library SideWidener_64.dll "Master Volume" 1 Width 0.589806 Mode 0 Tone 1 Bypass 0
+SHITTY MIC
+# VSTPlugin: Library GFM_Psypan.dll width 0.244361 pan 0.700358 x-itd 1
